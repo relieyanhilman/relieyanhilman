@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-A learner and highly motivated final-year student at Bandung Institute of Technology with a major in Information System and Technology. Deeply passionate in Backend & Cloud Computing. Reliable, agile in a fast-paced environment, and also eager and quick to learn new things. Effectively manage relationships and expectations in order to define what’s urgent and always be accountable for excellent outcomes.
+A learner and deeply passionate in Backend & Cloud Computing. Reliable, agile in a fast-paced environment, and also eager and quick to learn new things. Effectively manage relationships and expectations in order to define what’s urgent and always be accountable for excellent outcomes.
 
-* 🌍  I'm based in Bandung, Indonesia
+* 🌍  I'm based in Denpasar, Bali, Indonesia
 * ✉️  You can contact me at [relieyanhilman93@gmail.com](mailto:relieyanhilman93@gmail.com)
-* 🧠  I'm learning Backend Development
 
 ### Skills
 
